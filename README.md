@@ -1,9 +1,11 @@
-# Angular by Maximilian
+# Angular
 
 ## Notes
 
 - [Mosh Hamedani](Mosh%20Hamedani)
 - [CodeWithHarry](CodeWithHarry)
+
+# Angular by Maximilian
 
 ## The Basics
 
